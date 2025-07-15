@@ -1,3 +1,17 @@
+# Project Title: Employee Performance Analysis – INX Future Inc.
+
+> **IABAC-Certified Real-Time Data Science Project**
+
+This IABAC-Certified real-time data science project focuses on **INX Future Inc.**, a reputed data analytics and automation company. Despite being consistently ranked among the top employers, the company faced a **decline in employee performance**, leading to an **8% drop in client satisfaction** and a **surge in service delivery issues**.
+
+The primary goal of this project was to:
+- Identify key drivers behind performance decline
+- Analyze performance trends across departments
+- Build a robust machine learning model to **predict employee performance**
+- Provide actionable business recommendations to support **strategic HR decisions**  
+- Maintain **employee morale** while improving **client satisfaction and delivery quality**
+
+
 # Employee Performance Analysis - INX Future Inc.
 
 ## Overview
