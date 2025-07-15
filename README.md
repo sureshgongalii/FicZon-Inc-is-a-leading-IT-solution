@@ -229,6 +229,7 @@ data = pd.read_csv('INX-preprocessed_data.csv')
 
 ---
 
-**Project Certification**: IABAC Certified Data Science Project (Code: 10281)
+**Project Certification**: IABAC Certified Data Science Project
 **Business Domain**: Human Resources Analytics & Performance Management
 **Technical Domain**: Machine Learning, Statistical Analysis, Business Intelligence
+**Technical Domain: Machine Learning, Statistical Analysis, Business Intelligence
