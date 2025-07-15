@@ -16,7 +16,7 @@ The primary goal of this project was to:
 
 ## Overview
 
-This project addresses a critical business challenge faced by INX Future Inc., a leading data analytics and automation solutions provider. Despite being consistently rated as a top 20 employer, the company experienced declining employee performance metrics and an 8% drop in client satisfaction levels. This comprehensive data science project analyzes employee performance data to identify root causes of performance issues and provides actionable insights for strategic decision-making.
+This project addresses a critical business challenge faced by INX Future Inc., a leading data analytics and automation solutions provider. Despite being consistently rated as a top  employer, the company experienced declining employee performance metrics and an 8% drop in client satisfaction levels. This comprehensive data science project analyzes employee performance data to identify root causes of performance issues and provides actionable insights for strategic decision-making.
 
 ## Business Problem
 
